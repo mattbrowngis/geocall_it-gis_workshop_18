@@ -16,6 +16,7 @@
 - create a new connection to the sample database
 - view in QGIS browser
 - drag and drop data 
+- fHfxCs5C6QTZCKRX
 ---
 ## Executing and Visualizing Spatial Queries with DB Manager
 - Open DB Manager
