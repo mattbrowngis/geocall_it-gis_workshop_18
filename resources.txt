@@ -1,0 +1,16 @@
+http://workshops.boundlessgeo.com/postgis-intro/validity.html
+http://workshops.boundlessgeo.com/postgis-intro/clusterindex.html
+http://workshops.boundlessgeo.com/postgis-intro/history_tracking.html
+
+Connecting with QGIS - getting things set up.
+
+Importing/Exporting data
+
+Validity
+
+Basic Geoprocessing concepts
+
+Ticket Analysis
+
+
+
